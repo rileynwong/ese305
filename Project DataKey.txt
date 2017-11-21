@@ -1,0 +1,29 @@
+Data Key:-
+
+Balcony, Cats Allowed, … Wheelchair Access :- Binary Variables - 1 Indicating if it exists under features, 0 otherwise
+
+bathrooms: - Number of bathrooms in the Apartment
+
+bedrooms: - Number of bedrooms in the Apartment
+
+building_id:- Identification ID for an apartment building
+
+created:- Date and Time the Listing was created
+
+description:- Text describing the apartment listing
+
+display_address:- Address displayed on the listing
+
+features:- List of apartment features
+
+interest_level:- Factor indicating High, Medium, Low. Created from the number of inquiries the listing received
+
+latitude,logitude :- Coordinates of the apartment
+
+photos:- list of URL’s which link to images of the apartment
+
+manager_id:-  ID indicating which manager is managing the apartment listing
+
+price:- Apartment rental price
+
+street_address :- Indicates the street name the apartment is located on
